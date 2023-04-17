@@ -2,7 +2,7 @@ name: create-release
 
 on:
   push:
-    branches: [ v1-preview-008 ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
